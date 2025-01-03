@@ -1,0 +1,10 @@
+E:\C#\White_Ch7\White_Ch7.3\bin\Debug\White_Ch7.3.exe.config
+E:\C#\White_Ch7\White_Ch7.3\bin\Debug\White_Ch7.3.exe
+E:\C#\White_Ch7\White_Ch7.3\bin\Debug\White_Ch7.3.pdb
+E:\C#\White_Ch7\White_Ch7.3\obj\Debug\White_Ch7.3.csproj.AssemblyReference.cache
+E:\C#\White_Ch7\White_Ch7.3\obj\Debug\White_Ch7._3.ChargeAccValidation.resources
+E:\C#\White_Ch7\White_Ch7.3\obj\Debug\White_Ch7._3.Properties.Resources.resources
+E:\C#\White_Ch7\White_Ch7.3\obj\Debug\White_Ch7.3.csproj.GenerateResource.cache
+E:\C#\White_Ch7\White_Ch7.3\obj\Debug\White_Ch7.3.csproj.CoreCompileInputs.cache
+E:\C#\White_Ch7\White_Ch7.3\obj\Debug\White_Ch7.3.exe
+E:\C#\White_Ch7\White_Ch7.3\obj\Debug\White_Ch7.3.pdb
